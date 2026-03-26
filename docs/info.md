@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Inputs A and B are passed through an AND gate, which makes an LED be on(1) or off(0)
 
 ## How to test
 
-Explain how to use your project
+Inputs can be changed to affect the state of the LED.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+An LED.
