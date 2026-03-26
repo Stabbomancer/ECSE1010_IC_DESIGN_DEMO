@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Inputs A and B are passed through an AND gate, which makes an LED be on(1) or off(0)
+Inputs A and B are passed through an AND gate, which makes an LED be on(1) or off(0).
 
 ## How to test
 
